@@ -1,0 +1,18 @@
+GET /products HTTP/1.1
+Host: localhost:8081
+
+###
+GET /products/PWWe3w1SDU HTTP/1.1
+Host: localhost:8080
+
+###
+GET /products/C8GDyLrHJb HTTP/1.1
+Host: localhost:8080
+
+###
+GET /products/Dwt5F7KAhi HTTP/1.1
+Host: localhost:8080
+
+###
+GET /products/PWWe3w1SDU HTTP/1.1
+Host: localhost:8080
